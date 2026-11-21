@@ -1,0 +1,4 @@
+job_id,client_name,doc_type,line_count,rate_per_line,error_count
+JOB-1004,city general hospital,Progress Note,90,0.08,0
+JOB-1005,Metro Health Clinic,History & Physical,210,0.09,2
+JOB-1006,Westside Orthopedics,Operative Note,180,0.12,

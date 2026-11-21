@@ -1,0 +1,5 @@
+job_id,client_name,doc_type,line_count,rate_per_line,error_count
+JOB-1001,  metro health clinic ,Consultation,145,0.08,0
+JOB-1002,City General Hospital,Discharge Summary,320,0.10,1
+JOB-1001,  metro health clinic ,Consultation,145,0.08,0
+JOB-1003,WESTSIDE ORTHOPEDICS,Operative Note,,0.12,0
